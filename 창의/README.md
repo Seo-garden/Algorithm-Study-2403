@@ -8,3 +8,8 @@
 - [`백준 2667 풀이`](https://g-db.tistory.com/entry/JAVA-%EB%B0%B1%EC%A4%80-2667)
 - [`백준 14503 풀이`](https://g-db.tistory.com/entry/JAVA-%EB%B0%B1%EC%A4%80-14503)
 
+# 3주차 트리 순회
+- [`백준 11725 풀이`](https://g-db.tistory.com/entry/JAVA-%EB%B0%B1%EC%A4%80-11725-%ED%8A%B8%EB%A6%AC)
+- [`백준 5639 풀이`](https://g-db.tistory.com/entry/JAVA-%EB%B0%B1%EC%A4%80-5639-%ED%8A%B8%EB%A6%AC-%EC%88%9C%ED%9A%8C)
+- [`백준 22856 풀이`](https://g-db.tistory.com/entry/JAVA-%EB%B0%B1%EC%A4%80-22856-%ED%8A%B8%EB%A6%AC-%EC%88%9C%ED%9A%8C)
+
