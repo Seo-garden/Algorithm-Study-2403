@@ -27,5 +27,5 @@ func DFS(node: Int) {
     }
 }
 
-DFS(node: 1)
-print(count)      //1번 컴퓨터는 감염됐다
+DFS(node: 1)        //1번컴퓨터
+print(count)
