@@ -13,3 +13,9 @@
 - [`백준 5639 풀이`](https://g-db.tistory.com/entry/JAVA-%EB%B0%B1%EC%A4%80-5639-%ED%8A%B8%EB%A6%AC-%EC%88%9C%ED%9A%8C)
 - [`백준 22856 풀이`](https://g-db.tistory.com/entry/JAVA-%EB%B0%B1%EC%A4%80-22856-%ED%8A%B8%EB%A6%AC-%EC%88%9C%ED%9A%8C)
 
+# 4주차 완전 탐색
+- ['백준 3085 풀이'](https://g-db.tistory.com/entry/JAVA-%EB%B0%B1%EC%A4%80-3085-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)
+- ['백준 14620 풀이'](https://g-db.tistory.com/entry/JAVA-%EB%B0%B1%EC%A4%80-14620-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)
+- ['백준 1527 풀이'](https://g-db.tistory.com/entry/JAVA-%EB%B0%B1%EC%A4%80-1527-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)
+- ['백준 15270 풀이'](https://g-db.tistory.com/entry/JAVA-%EB%B0%B1%EC%A4%80-15270)
+- ['백준 2615 풀이'](https://g-db.tistory.com/entry/JAVA-%EB%B0%B1%EC%A4%80-2615)

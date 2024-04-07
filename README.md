@@ -48,3 +48,8 @@
 ### [3주차 - 트리 순회]()
 - 풀어올 문제 : [백준 11725](https://www.acmicpc.net/problem/11725)
 
+### [4주차 - 완전 탐색]()
+- 풀어올 문제
+  - [백준 3085](https://www.acmicpc.net/problem/3085)
+  - [백준 14620](https://www.acmicpc.net/problem/14620)
+  - [백준 1527](https://www.acmicpc.net/problem/1527)
