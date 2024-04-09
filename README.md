@@ -39,17 +39,24 @@
 
 ## 주차별 정리
 
-### [1주차 - 누적합]() 
+### [1주차 - 누적합]() : 3월 11일
 - 풀어올 문제 : [백준 20438](https://www.acmicpc.net/problem/20438)   
 
-### [2주차 - DFS, BFS]()
+### [2주차 - DFS, BFS]() : 3월 24일
 - 풀어올 문제 : [백준 2606](https://www.acmicpc.net/problem/2606)
   
-### [3주차 - 트리 순회]()
+### [3주차 - 트리 순회]() : 3월 31일
 - 풀어올 문제 : [백준 11725](https://www.acmicpc.net/problem/11725)
 
-### [4주차 - 완전 탐색]()
+### [4주차 - 완전 탐색]() : 4월 6일
 - 풀어올 문제
   - [백준 3085](https://www.acmicpc.net/problem/3085)
   - [백준 14620](https://www.acmicpc.net/problem/14620)
   - [백준 1527](https://www.acmicpc.net/problem/1527)
+
+### [5주차 - 백트래킹]() : 4월
+- 풀어올 문제
+  - [백준 15649](https://www.acmicpc.net/problem/15649)
+  - [백준 15650](https://www.acmicpc.net/problem/15650)
+  - [백준 15663](https://www.acmicpc.net/problem/15663)
+  - [백준 1182](https://www.acmicpc.net/problem/1182) 
