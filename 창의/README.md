@@ -33,3 +33,9 @@
 - [`백준 10971 풀이`](https://g-db.tistory.com/entry/JAVA-%EB%B0%B1%EC%A4%80-10971)
 - [`백준 6443 풀이`](https://g-db.tistory.com/entry/JAVA-%EB%B0%B1%EC%A4%80-6443)
 - [`백준 1038 풀이`](https://g-db.tistory.com/entry/JAVA-%EB%B0%B1%EC%A4%80-1038)
+
+# 6주차 비트 마스킹
+- [`백준 2961 풀이`](https://g-db.tistory.com/entry/JAVA-%EB%B0%B1%EC%A4%80-2961)
+- [`백준 11723 풀이`](https://g-db.tistory.com/entry/JAVA-%EB%B0%B1%EC%A4%80-11723)
+- [`백준 15787 풀이`](https://g-db.tistory.com/entry/JAVA-%EB%B0%B1%EC%A4%80-15787)
+---
