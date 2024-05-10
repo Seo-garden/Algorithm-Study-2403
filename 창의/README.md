@@ -39,3 +39,8 @@
 - [`백준 11723 풀이`](https://g-db.tistory.com/entry/JAVA-%EB%B0%B1%EC%A4%80-11723)
 - [`백준 15787 풀이`](https://g-db.tistory.com/entry/JAVA-%EB%B0%B1%EC%A4%80-15787)
 ---
+
+# 7주차 라인 스위핑
+- [`백준 15889 풀이`](https://g-db.tistory.com/entry/JAVA-%EB%B0%B1%EC%A4%80-15889-%EB%9D%BC%EC%9D%B8-%EC%8A%A4%EC%9C%84%ED%95%91)
+- [`백준 2170 풀이`](https://g-db.tistory.com/entry/JAVA-%EB%B0%B1%EC%A4%80-2170-%EB%9D%BC%EC%9D%B8-%EC%8A%A4%EC%9C%84%ED%95%91)
+---
