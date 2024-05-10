@@ -89,3 +89,12 @@
   - [백준 15787](https://www.acmicpc.net/problem/15787)
 
 - `스터디 당일 푼 문제`
+  - [백준 2064](https://www.acmicpc.net/problem/2064)
+  - [백준 1285](https://www.acmicpc.net/problem/1285)
+  - [백준 1062](https://www.acmicpc.net/problem/1062)
+  
+### [7주차 라인스위핑]() : 5월 12일
+- `풀어올 문제`
+  - [백준 15889](https://www.acmicpc.net/problem/15889)
+  - [백준 2170](https://www.acmicpc.net/problem/2170)
+
